@@ -5,9 +5,4 @@ Hangi veriler depolanıyor?
 Botumuzda henüz hiçbir veriniz depolanmıyor.
 
 
-
-What data are logged?
-The music you play is logged by us.
-
-Hangi veriler loglanıyor?
-Oynattığınız müzikler tarafımıza loglanır.
+Contact : https://lyessa.live & https://discord.gg/TtaXpqfGMk
