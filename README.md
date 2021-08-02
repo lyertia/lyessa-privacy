@@ -9,4 +9,4 @@
 - 2 Nisan'dan itibaren kullanılan komutların verilerini kaydediyoruz.
 
 
-Contact : https://lyessa.live & https://discord.gg/TtaXpqfGMk
+Contact : https://lyessa.live & https://discord.gg/akame
